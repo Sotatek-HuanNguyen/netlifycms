@@ -1,5 +1,5 @@
 ---
-hero_title: Build a SaaS faster with React
+hero_title: Wavebase
 hero_description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis
   magni modi enim veritatis quas corrupti asperiores aliquid non quae
   perspiciatis voluptatibus totam accusamus velit, officia dolor in doloremque,
